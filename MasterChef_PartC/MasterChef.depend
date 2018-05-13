@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1525931992 source:c:\users\admin\desktop\masterchef_partc\competition.cpp
+	<stdlib.h>
+	<iostream>
+	<string>
+	"Competition.h"
+
+1525938456 c:\users\admin\desktop\masterchef_partc\competition.h
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1525936982 source:c:\users\admin\desktop\masterchef_partc\immunitycompetition.cpp
+	<stdlib.h>
+	<iostream>
+	<string>
+	"ImmunityCompetition.h"
+
+1525935046 c:\users\admin\desktop\masterchef_partc\immunitycompetition.h
+	<stdlib.h>
+	<iostream>
+	<string>
+	"Competition.h"
+	"ImmunityAward.h"
+	"Team.h"
+
+1492454452 c:\users\admin\desktop\masterchef_partc\immunityaward.h
+	"Award.h"
+
+1492454414 c:\users\admin\desktop\masterchef_partc\award.h
+	<string>
+	<iostream>
+
+1523029644 c:\users\admin\desktop\masterchef_partc\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1523029916 c:\users\admin\desktop\masterchef_partc\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1526158690 source:c:\users\admin\desktop\masterchef_partc\main.cpp
+	"Team.h"
+	"Round.h"
+	"TeamCompetition.h"
+	"ImmunityCompetition.h"
+	"CreativityCompetition.h"
+	"FoodAward.h"
+	"ImmunityAward.h"
+	"ExcursionAward.h"
+
+1492448202 c:\users\admin\desktop\masterchef_partc\round.h
+	<iostream>
+	<string>
+
+1526154222 c:\users\admin\desktop\masterchef_partc\teamcompetition.h
+	<iostream>
+	<string>
+	"Competition.h"
+	"Round.h"
+	"FoodAward.h"
+	"Team.h"
+
+1523029364 c:\users\admin\desktop\masterchef_partc\foodaward.h
+	"Award.h"
+	<cstdlib>
+
+1525938178 c:\users\admin\desktop\masterchef_partc\creativitycompetition.h
+	<stdlib.h>
+	<iostream>
+	<string>
+	"Competition.h"
+	"ExcursionAward.h"
+	"Team.h"
+
+1523086618 c:\users\admin\desktop\masterchef_partc\excursionaward.h
+	"Award.h"
+	<cstdlib>
+
+1523086634 source:c:\users\admin\desktop\masterchef_partc\player.cpp
+	"Player.h"
+
+1523030050 source:c:\users\admin\desktop\masterchef_partc\team.cpp
+	"Team.h"
+	"Player.h"
+
+1526158558 source:c:\users\admin\desktop\masterchef_partc\teamcompetition.cpp
+	<iostream>
+	<string>
+	"TeamCompetition.h"
+
+1526169311 source:c:\users\admin\desktop\masterchef_partc\creativitycompetition.cpp
+	<stdlib.h>
+	<iostream>
+	<string>
+	<cstring>
+	"CreativityCompetition.h"
+	"Player.h"
+
